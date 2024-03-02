@@ -1,0 +1,8 @@
+---
+---
+
+Italian Game: Knight Attack, Ponziani-Steinitz Gambit
+=====================================================
+
+
+Italian Game: Knight Attack, Ponziani-Steinitz Gambit 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Nxe4. Top Players
