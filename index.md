@@ -3,7 +3,7 @@
 Chess openings
 ==============
 
-* [Adelaide Counter Gambit]({{site.baseurl}}{% link SUBSITES/Adelaide-Counter-Gambit.md %}) \
+* [Adelaide Counter Gambit](SUBSITES/Adelaide-Counter-Gambit.md) \
 <img src="CHESS_PICS/AdelaideCounterGambit.png" width="200"/>
 * [Albin Counter-Gambit]({{site.baseurl}}{% link SUBSITES/Albin-Counter-Gambit.md %}) \
 <img src="CHESS_PICS/AlbinCounter-Gambit.png" width="200"/>
